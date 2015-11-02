@@ -1,4 +1,3 @@
-__author__ = 'cheng'
 from flask import Flask
 
 app = Flask(__name__)
